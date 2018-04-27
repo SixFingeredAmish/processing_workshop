@@ -1,0 +1,614 @@
+ulan_id,profession_type,count
+http://vocab.getty.edu/aat/300162118,abbots,10
+http://vocab.getty.edu/aat/300112013,abolitionists,5
+http://vocab.getty.edu/aat/300266109,academics (people),1
+http://vocab.getty.edu/aat/300007089,academies (institutions),45
+http://vocab.getty.edu/aat/300025826,activists,24
+http://vocab.getty.edu/aat/300025658,actors (performing artists),65
+http://vocab.getty.edu/aat/300025427,administrators,86
+http://vocab.getty.edu/aat/300025949,agencies,98
+http://vocab.getty.edu/aat/300025213,agents (commercial representatives),6
+http://vocab.getty.edu/aat/300254398,agronomists,1
+http://vocab.getty.edu/aat/300232423,alliances,2
+http://vocab.getty.edu/aat/300386158,amateur architects,20
+http://vocab.getty.edu/aat/300386179,amateur artists,3
+http://vocab.getty.edu/aat/300188587,ambassadors,5
+http://vocab.getty.edu/aat/300136380,anarchists,2
+http://vocab.getty.edu/aat/300025807,anatomists,1
+http://vocab.getty.edu/aat/300249395,Animalia (kingdom),1
+http://vocab.getty.edu/aat/300025646,animators,1
+http://vocab.getty.edu/aat/300025583,anthropologists,7
+http://vocab.getty.edu/aat/300379813,antipopes,1
+http://vocab.getty.edu/aat/300025827,antiquaries,48
+http://vocab.getty.edu/aat/300025486,archaeologists,184
+http://vocab.getty.edu/aat/300025753,archbishops,22
+http://vocab.getty.edu/aat/300258600,archduchesses,1
+http://vocab.getty.edu/aat/300258604,archdukes,3
+http://vocab.getty.edu/aat/300024987,architects,46242
+http://vocab.getty.edu/aat/300386257,architectural conservationists,1
+http://vocab.getty.edu/aat/300025520,architectural critics,96
+http://vocab.getty.edu/aat/300386348,architectural engineers,12
+http://vocab.getty.edu/aat/300312082,architectural firms,15167
+http://vocab.getty.edu/aat/300025540,architectural historians,279
+http://vocab.getty.edu/aat/300386350,architectural planners,1
+http://vocab.getty.edu/aat/300026011,architectural societies,6
+http://vocab.getty.edu/aat/300312242,archives (institutions),32
+http://vocab.getty.edu/aat/300162133,archivists,8
+http://vocab.getty.edu/aat/300236021,aristocrats,81
+http://vocab.getty.edu/aat/300025327,armorers,24
+http://vocab.getty.edu/aat/300386365,art collections,2
+http://vocab.getty.edu/aat/300025982,art commissions,1
+http://vocab.getty.edu/aat/300168235,art critics,31
+http://vocab.getty.edu/aat/300386253,art dealers,44
+http://vocab.getty.edu/aat/300025102,art directors,5
+http://vocab.getty.edu/aat/300386366,art festivals,2
+http://vocab.getty.edu/aat/300312243,art galleries (institutions),371
+http://vocab.getty.edu/aat/300025541,art historians,368
+http://vocab.getty.edu/aat/300312302,art museums (institutions),67
+http://vocab.getty.edu/aat/300386328,artillery makers,4
+http://vocab.getty.edu/aat/300386205,artisans,41
+http://vocab.getty.edu/aat/300025103,artists (visual artists),126790
+http://vocab.getty.edu/aat/300265433,artists' collectives,37
+http://vocab.getty.edu/aat/300386233,assemblage artists,1
+http://vocab.getty.edu/aat/300386178,assistant artists,1
+http://vocab.getty.edu/aat/300025950,associations,209
+http://vocab.getty.edu/aat/300380152,astronauts,3
+http://vocab.getty.edu/aat/300025789,astronomers,10
+http://vocab.getty.edu/aat/300386259,astrophysicists,1
+http://vocab.getty.edu/aat/300264536,"ateliers (studios, organizations)",2
+http://vocab.getty.edu/aat/300236025,athletes,2
+http://vocab.getty.edu/aat/300005234,auction houses,16
+http://vocab.getty.edu/aat/300025208,auctioneers,7
+http://vocab.getty.edu/aat/300025492,authors,531
+http://vocab.getty.edu/aat/300386316,aviators,2
+http://vocab.getty.edu/aat/300136385,bakers,1
+http://vocab.getty.edu/aat/300025209,bankers (people),27
+http://vocab.getty.edu/aat/300386279,barometer makers,2
+http://vocab.getty.edu/aat/300025552,bibliographers,3
+http://vocab.getty.edu/aat/300236030,biochemists,1
+http://vocab.getty.edu/aat/300025494,biographers,1
+http://vocab.getty.edu/aat/300025790,biologists,4
+http://vocab.getty.edu/aat/300025756,bishops (prelates),31
+http://vocab.getty.edu/aat/300025313,blacksmiths,8
+http://vocab.getty.edu/aat/300264548,boatbuilders,1
+http://vocab.getty.edu/aat/300386192,body artists (performance artists),2
+http://vocab.getty.edu/aat/300386346,book artists (artists),10
+http://vocab.getty.edu/aat/300386254,book dealers,9
+http://vocab.getty.edu/aat/300025704,bookbinders,34
+http://vocab.getty.edu/aat/300025791,botanists,20
+http://vocab.getty.edu/aat/300025043,bricklayers,2
+http://vocab.getty.edu/aat/300025282,brickmakers,1
+http://vocab.getty.edu/aat/300025502,broadcasters,3
+http://vocab.getty.edu/aat/300025316,bronzeworkers,4
+http://vocab.getty.edu/aat/300025007,builders,230
+http://vocab.getty.edu/aat/300386644,bureaus (offices),8
+http://vocab.getty.edu/aat/300386272,burghers,2
+http://vocab.getty.edu/aat/300025966,businesses (business enterprises),16
+http://vocab.getty.edu/aat/300025210,businessmen,117
+http://vocab.getty.edu/aat/300236593,businesswomen,5
+http://vocab.getty.edu/aat/300386375,cabarets (institutions),1
+http://vocab.getty.edu/aat/300025370,cabinetmakers,176
+http://vocab.getty.edu/aat/300025107,calligraphers,4
+http://vocab.getty.edu/aat/300025647,cameramen,1
+http://vocab.getty.edu/aat/300025757,canons (clergy),3
+http://vocab.getty.edu/aat/300236171,captains (military officers),4
+http://vocab.getty.edu/aat/300025758,cardinals (prelates),62
+http://vocab.getty.edu/aat/300025108,caricaturists,9
+http://vocab.getty.edu/aat/300025008,carpenters,64
+http://vocab.getty.edu/aat/300386344,carpet makers,2
+http://vocab.getty.edu/aat/300025593,cartographers,16
+http://vocab.getty.edu/aat/300025110,cartoonists,23
+http://vocab.getty.edu/aat/300025256,carvers (people in crafts),25
+http://vocab.getty.edu/aat/300025257,casters (people),1
+http://vocab.getty.edu/aat/300386244,celebrities,1
+http://vocab.getty.edu/aat/300065252,centers,37
+http://vocab.getty.edu/aat/300025388,ceramicists,318
+http://vocab.getty.edu/aat/300386308,ceramics manufactories,95
+http://vocab.getty.edu/aat/300312298,ceramics studios (organizations),2
+http://vocab.getty.edu/aat/300236406,chancellors,3
+http://vocab.getty.edu/aat/300025793,chemists (scientists),15
+http://vocab.getty.edu/aat/300025445,chieftains,2
+http://vocab.getty.edu/aat/300025945,children (people by age group),5
+http://vocab.getty.edu/aat/300025649,choreographers,2
+http://vocab.getty.edu/aat/300025496,chroniclers,1
+http://vocab.getty.edu/aat/300025650,cinematographers,2
+http://vocab.getty.edu/aat/300025070,civil engineers,59
+http://vocab.getty.edu/aat/300025517,classicists,1
+http://vocab.getty.edu/aat/300025747,clergy,39
+http://vocab.getty.edu/aat/300025441,clerks of the works,1
+http://vocab.getty.edu/aat/300025397,clockmakers,114
+http://vocab.getty.edu/aat/300386337,clothing manufacturers,2
+http://vocab.getty.edu/aat/300025975,clubs (associations),3
+http://vocab.getty.edu/aat/300136719,cobblers,1
+http://vocab.getty.edu/aat/300025113,collagists,2
+http://vocab.getty.edu/aat/300025976,collections (object groupings),5
+http://vocab.getty.edu/aat/300025234,collectors,540
+http://vocab.getty.edu/aat/300312285,colleges (institutions),15
+http://vocab.getty.edu/aat/300025661,comedians,1
+http://vocab.getty.edu/aat/300025446,commissioners (government officials),7
+http://vocab.getty.edu/aat/300025956,commissions (boards),11
+http://vocab.getty.edu/aat/300025980,committees,36
+http://vocab.getty.edu/aat/300160084,companies,130
+http://vocab.getty.edu/aat/300025671,composers,49
+http://vocab.getty.edu/aat/300253822,computer artists,2
+http://vocab.getty.edu/aat/300025819,computer programmers,1
+http://vocab.getty.edu/aat/300236481,computer scientists,1
+http://vocab.getty.edu/aat/300131101,conceptual artists,12
+http://vocab.getty.edu/aat/300386321,concubines,2
+http://vocab.getty.edu/aat/300236493,condottieri,2
+http://vocab.getty.edu/aat/300264539,connoisseurs,7
+http://vocab.getty.edu/aat/300025820,conservation scientists,1
+http://vocab.getty.edu/aat/300102842,conservators (people in conservation),55
+http://vocab.getty.edu/aat/300150095,consortia,20
+http://vocab.getty.edu/aat/300386352,construction firms,45
+http://vocab.getty.edu/aat/300025001,construction workers,5
+http://vocab.getty.edu/aat/300025461,consuls,3
+http://vocab.getty.edu/aat/300025835,consultants,105
+http://vocab.getty.edu/aat/300386276,contracting firms (construction),5
+http://vocab.getty.edu/aat/300025052,contractors,35
+http://vocab.getty.edu/aat/300259563,cooperatives (business enterprises),13
+http://vocab.getty.edu/aat/300025375,coopers,4
+http://vocab.getty.edu/aat/300025318,coppersmiths,2
+http://vocab.getty.edu/aat/300025189,copyists,8
+http://vocab.getty.edu/aat/300386361,corporate bodies,45
+http://vocab.getty.edu/aat/300025969,corporations,64
+http://vocab.getty.edu/aat/300225705,correspondents (correspondence writers),8
+http://vocab.getty.edu/aat/300236518,cosmographers,2
+http://vocab.getty.edu/aat/300163428,costume designers,8
+http://vocab.getty.edu/aat/300312287,councils (general),83
+http://vocab.getty.edu/aat/300251944,countesses,3
+http://vocab.getty.edu/aat/300025449,courtiers,11
+http://vocab.getty.edu/aat/300252735,courts (judicial bodies),2
+http://vocab.getty.edu/aat/300025389,craftsmen,124
+http://vocab.getty.edu/aat/300025837,criminals,2
+http://vocab.getty.edu/aat/300386264,criminologists,1
+http://vocab.getty.edu/aat/300025519,critics,64
+http://vocab.getty.edu/aat/300343609,cultural centers (institutions),13
+http://vocab.getty.edu/aat/300025633,curators,119
+http://vocab.getty.edu/aat/300236522,cutlers,4
+http://vocab.getty.edu/aat/300236578,daguerreotypists,24
+http://vocab.getty.edu/aat/300025653,dancers,9
+http://vocab.getty.edu/aat/300025236,dealers,101
+http://vocab.getty.edu/aat/300386189,decorative artists,2
+http://vocab.getty.edu/aat/300121765,dedicatees,2
+http://vocab.getty.edu/aat/300386349,demolition engineers,1
+http://vocab.getty.edu/aat/300025808,dentists,1
+http://vocab.getty.edu/aat/300263534,departments (organizational units),271
+http://vocab.getty.edu/aat/300250472,deputies,2
+http://vocab.getty.edu/aat/300386273,design firms,1597
+http://vocab.getty.edu/aat/300312300,design studios (organizations),5
+http://vocab.getty.edu/aat/300025190,designers,1546
+http://vocab.getty.edu/aat/300025058,developers,218
+http://vocab.getty.edu/aat/300236596,dictators,1
+http://vocab.getty.edu/aat/300386327,die makers (numismatics),3
+http://vocab.getty.edu/aat/300386183,digital artists,2
+http://vocab.getty.edu/aat/300386360,dilettantes,1
+http://vocab.getty.edu/aat/300025462,diplomats,51
+http://vocab.getty.edu/aat/300025431,directors (administrators),38
+http://vocab.getty.edu/aat/300025654,directors (performing arts),14
+http://vocab.getty.edu/aat/300263536,divisions (organizational units),71
+http://vocab.getty.edu/aat/300386269,dogaressas,1
+http://vocab.getty.edu/aat/300025463,doges,6
+http://vocab.getty.edu/aat/300386287,dollhouse makers,2
+http://vocab.getty.edu/aat/300025240,donors,3
+http://vocab.getty.edu/aat/300112172,draftsmen (artists),165
+http://vocab.getty.edu/aat/300025350,dressmakers,1
+http://vocab.getty.edu/aat/300156290,duchesses (noblewomen),16
+http://vocab.getty.edu/aat/300132247,dukes,13
+http://vocab.getty.edu/aat/300025351,dyers,1
+http://vocab.getty.edu/aat/300386176,dynasties,2
+http://vocab.getty.edu/aat/300025373,ébénistes,98
+http://vocab.getty.edu/aat/300025797,ecologists,11
+http://vocab.getty.edu/aat/300025591,economists,11
+http://vocab.getty.edu/aat/300025526,"editors (assembling, revising)",25
+http://vocab.getty.edu/aat/300386368,educational institutions,6
+http://vocab.getty.edu/aat/300025527,educators,23
+http://vocab.getty.edu/aat/300236749,Egyptologists,6
+http://vocab.getty.edu/aat/300386270,electors,2
+http://vocab.getty.edu/aat/300386679,electronics manufacturers,6
+http://vocab.getty.edu/aat/300025352,embroiderers,9
+http://vocab.getty.edu/aat/300025480,emperors,109
+http://vocab.getty.edu/aat/300150492,empresses,20
+http://vocab.getty.edu/aat/300025258,enamelers,5
+http://vocab.getty.edu/aat/300025498,encyclopedists,1
+http://vocab.getty.edu/aat/300312286,engineering firms,211
+http://vocab.getty.edu/aat/300025063,engineers,741
+http://vocab.getty.edu/aat/300239410,engravers (incisers),1
+http://vocab.getty.edu/aat/300025165,engravers (printmakers),28
+http://vocab.getty.edu/aat/300025222,entrepreneurs,8
+http://vocab.getty.edu/aat/300130970,environmental artists,11
+http://vocab.getty.edu/aat/300251196,environmental designers,9
+http://vocab.getty.edu/aat/300343399,environmentalists,6
+http://vocab.getty.edu/aat/300025489,epigraphers,3
+http://vocab.getty.edu/aat/300025499,essayists,1
+http://vocab.getty.edu/aat/300025174,etchers,22
+http://vocab.getty.edu/aat/300025585,ethnologists,5
+http://vocab.getty.edu/aat/300264848,etymologists,1
+http://vocab.getty.edu/aat/300386263,eugenists,1
+http://vocab.getty.edu/aat/300025432,executives,16
+http://vocab.getty.edu/aat/300025843,explorers,10
+http://vocab.getty.edu/aat/300379421,factories (organizations),7
+http://vocab.getty.edu/aat/300055474,families,127
+http://vocab.getty.edu/aat/300025607,farmers (people in agriculture),5
+http://vocab.getty.edu/aat/300025198,fashion designers,84
+http://vocab.getty.edu/aat/300343830,fashion houses,11
+http://vocab.getty.edu/aat/300232424,federations,17
+http://vocab.getty.edu/aat/300136466,feminists (people),1
+http://vocab.getty.edu/aat/300379593,feudatories,1
+http://vocab.getty.edu/aat/300156125,fiber artists,2
+http://vocab.getty.edu/aat/300386247,film critics,1
+http://vocab.getty.edu/aat/300312209,film directors,11
+http://vocab.getty.edu/aat/300312211,film producers,1
+http://vocab.getty.edu/aat/300075154,filmmakers,45
+http://vocab.getty.edu/aat/300025224,financiers,18
+http://vocab.getty.edu/aat/300025971,firms,1682
+http://vocab.getty.edu/aat/300386300,first ladies,1
+http://vocab.getty.edu/aat/300025608,fishermen (people),1
+http://vocab.getty.edu/aat/300025201,floral designers,3
+http://vocab.getty.edu/aat/300025134,folk artists,10
+http://vocab.getty.edu/aat/300025438,foremen,1
+http://vocab.getty.edu/aat/300025839,forgers (criminals),3
+http://vocab.getty.edu/aat/300386373,former administrative bodies,1
+http://vocab.getty.edu/aat/300025985,foundations (organizations),124
+http://vocab.getty.edu/aat/300112017,founders (originators),14
+http://vocab.getty.edu/aat/300266773,foundries,4
+http://vocab.getty.edu/aat/300386294,framemakers,2
+http://vocab.getty.edu/aat/300266789,friars,4
+http://vocab.getty.edu/aat/300386292,furniture designers,239
+http://vocab.getty.edu/aat/300386289,furniture makers (people),175
+http://vocab.getty.edu/aat/300386291,furniture manufactories,29
+http://vocab.getty.edu/aat/300240057,galleries (display spaces),3
+http://vocab.getty.edu/aat/300379169,gallerists,5
+http://vocab.getty.edu/aat/300386168,garden designers,196
+http://vocab.getty.edu/aat/300025614,gardeners,137
+http://vocab.getty.edu/aat/300386655,gardens (institutions),6
+http://vocab.getty.edu/aat/300265793,gem carvers,7
+http://vocab.getty.edu/aat/300025053,general contractors,1
+http://vocab.getty.edu/aat/300236762,generals,26
+http://vocab.getty.edu/aat/300375128,gentlemen,25
+http://vocab.getty.edu/aat/300375129,gentlewomen,68
+http://vocab.getty.edu/aat/300025592,geographers,11
+http://vocab.getty.edu/aat/300025799,geologists,5
+http://vocab.getty.edu/aat/300025261,gilders,11
+http://vocab.getty.edu/aat/300386223,glass designers,5
+http://vocab.getty.edu/aat/300263758,glass painters,37
+http://vocab.getty.edu/aat/300386225,glass stainers,2
+http://vocab.getty.edu/aat/300025408,glassblowers,2
+http://vocab.getty.edu/aat/300025285,glassmakers,20
+http://vocab.getty.edu/aat/300312295,glassmaking studios (organizations),2
+http://vocab.getty.edu/aat/300025283,glassworkers,31
+http://vocab.getty.edu/aat/300025319,goldsmiths,139
+http://vocab.getty.edu/aat/300386166,golf course architects,3
+http://vocab.getty.edu/aat/300024989,government architects,17
+http://vocab.getty.edu/aat/300113288,government employees,10
+http://vocab.getty.edu/aat/300386363,governmental bodies,69
+http://vocab.getty.edu/aat/300025465,governors,6
+http://vocab.getty.edu/aat/300312066,graffiti artists,1
+http://vocab.getty.edu/aat/300258639,grand duchesses,3
+http://vocab.getty.edu/aat/300258609,grand dukes,1
+http://vocab.getty.edu/aat/300264850,graphic artists,8
+http://vocab.getty.edu/aat/300025119,graphic designers,49
+http://vocab.getty.edu/aat/300386362,groups (organizations),89
+http://vocab.getty.edu/aat/300386700,guide terms,1
+http://vocab.getty.edu/aat/300025988,guilds,7
+http://vocab.getty.edu/aat/300265038,gun-stockers,2
+http://vocab.getty.edu/aat/300025335,gunsmiths,18
+http://vocab.getty.edu/aat/300386304,harpsichord makers,1
+http://vocab.getty.edu/aat/300236032,heralds,1
+http://vocab.getty.edu/aat/300236808,heroines,2
+http://vocab.getty.edu/aat/300025539,historians,146
+http://vocab.getty.edu/aat/300386296,historical figures,10
+http://vocab.getty.edu/aat/300112031,horticulturists,27
+http://vocab.getty.edu/aat/300343473,"hospitals (institutions, health facility)",1
+http://vocab.getty.edu/aat/300136476,housewives (people),1
+http://vocab.getty.edu/aat/300236862,humanists (people),21
+http://vocab.getty.edu/aat/300025073,hydraulic engineers,1
+http://vocab.getty.edu/aat/300025122,illuminators (manuscript artists),5
+http://vocab.getty.edu/aat/300025123,illustrators,60
+http://vocab.getty.edu/aat/300236867,impresarios,2
+http://vocab.getty.edu/aat/300025203,industrial designers,103
+http://vocab.getty.edu/aat/300025082,industrial engineers,3
+http://vocab.getty.edu/aat/300025226,industrialists,28
+http://vocab.getty.edu/aat/300025269,inlayers,1
+http://vocab.getty.edu/aat/300265517,installation artists,22
+http://vocab.getty.edu/aat/300026002,institutes (organizations),187
+http://vocab.getty.edu/aat/300026004,institutions (organizations),24
+http://vocab.getty.edu/aat/300386631,instructors,4
+http://vocab.getty.edu/aat/300227488,instrument makers,15
+http://vocab.getty.edu/aat/300162547,interior decorators,96
+http://vocab.getty.edu/aat/300025205,interior designers,2663
+http://vocab.getty.edu/aat/300025602,interpreters (translators),2
+http://vocab.getty.edu/aat/300025845,inventors,41
+http://vocab.getty.edu/aat/300025320,ironsmiths,14
+http://vocab.getty.edu/aat/300006296,ironworks (factories),6
+http://vocab.getty.edu/aat/300025409,jewelers (people in crafts),38
+http://vocab.getty.edu/aat/300025376,joiners,6
+http://vocab.getty.edu/aat/300025501,journalists,47
+http://vocab.getty.edu/aat/300025625,judges,2
+http://vocab.getty.edu/aat/300236907,jurists,8
+http://vocab.getty.edu/aat/300025481,kings (people),160
+http://vocab.getty.edu/aat/300230874,knights (landholders),6
+http://vocab.getty.edu/aat/300007660,laboratories,10
+http://vocab.getty.edu/aat/300025888,laborers,1
+http://vocab.getty.edu/aat/300025358,lace makers,3
+http://vocab.getty.edu/aat/300230871,landowners,33
+http://vocab.getty.edu/aat/300024993,landscape architects,2287
+http://vocab.getty.edu/aat/300386171,landscape architecture firms,508
+http://vocab.getty.edu/aat/300025410,lapidaries (people),3
+http://vocab.getty.edu/aat/300025627,lawyers,55
+http://vocab.getty.edu/aat/300236993,leaders (people),7
+http://vocab.getty.edu/aat/300025288,leatherworkers,1
+http://vocab.getty.edu/aat/300380097,letter carriers,1
+http://vocab.getty.edu/aat/300025115,letterers,1
+http://vocab.getty.edu/aat/300025554,lexicographers,2
+http://vocab.getty.edu/aat/300025555,librarians,10
+http://vocab.getty.edu/aat/300312241,libraries (institutions),56
+http://vocab.getty.edu/aat/300025674,librettists,3
+http://vocab.getty.edu/aat/300386275,lighting designers,189
+http://vocab.getty.edu/aat/300025561,linguists,3
+http://vocab.getty.edu/aat/300025522,literary critics,5
+http://vocab.getty.edu/aat/300025175,lithographers,4
+http://vocab.getty.edu/aat/300025336,locksmiths,2
+http://vocab.getty.edu/aat/300251917,makers,8
+http://vocab.getty.edu/aat/300025435,managers,15
+http://vocab.getty.edu/aat/300264603,manufactories,120
+http://vocab.getty.edu/aat/300386268,manufactory directors,1
+http://vocab.getty.edu/aat/300025230,manufacturers,312
+http://vocab.getty.edu/aat/300263264,marble workers,10
+http://vocab.getty.edu/aat/300250804,marquises (noblemen),4
+http://vocab.getty.edu/aat/300025040,masons (construction workers),116
+http://vocab.getty.edu/aat/300386353,master builders,36
+http://vocab.getty.edu/aat/300025904,masters (professionals),10
+http://vocab.getty.edu/aat/300025786,mathematicians,15
+http://vocab.getty.edu/aat/300025085,mechanical engineers,5
+http://vocab.getty.edu/aat/300025272,mechanics (people),1
+http://vocab.getty.edu/aat/300025337,medalists,38
+http://vocab.getty.edu/aat/300136445,members of Congress,1
+http://vocab.getty.edu/aat/300025469,members of Parliament,2
+http://vocab.getty.edu/aat/300025928,men (male humans),17
+http://vocab.getty.edu/aat/300025378,menuisiers,39
+http://vocab.getty.edu/aat/300025245,merchants,82
+http://vocab.getty.edu/aat/300025297,metalworkers,51
+http://vocab.getty.edu/aat/300386325,metalworking studios (organizations),3
+http://vocab.getty.edu/aat/300025763,metropolitans (prelates),2
+http://vocab.getty.edu/aat/300025086,military engineers,17
+http://vocab.getty.edu/aat/300236210,military officers,76
+http://vocab.getty.edu/aat/300025450,military personnel,1
+http://vocab.getty.edu/aat/300386315,militiamen,13
+http://vocab.getty.edu/aat/300250737,militias,1
+http://vocab.getty.edu/aat/300025273,millers (people),1
+http://vocab.getty.edu/aat/300025801,mineralogists,2
+http://vocab.getty.edu/aat/300154329,miniaturists,7
+http://vocab.getty.edu/aat/300386633,ministers (clergy),9
+http://vocab.getty.edu/aat/300205362,minters,1
+http://vocab.getty.edu/aat/300386698,miscellaneous,4
+http://vocab.getty.edu/aat/300025764,missionaries,4
+http://vocab.getty.edu/aat/300386235,mixed-media artists,10
+http://vocab.getty.edu/aat/300248289,model makers,22
+http://vocab.getty.edu/aat/300025417,modelers,20
+http://vocab.getty.edu/aat/300025848,models (people),23
+http://vocab.getty.edu/aat/300237007,monarchs,2
+http://vocab.getty.edu/aat/300025765,monks,18
+http://vocab.getty.edu/aat/300025276,mosaicists,12
+http://vocab.getty.edu/aat/300312084,motion picture studios (businesses),1
+http://vocab.getty.edu/aat/300386236,multimedia artists,1
+http://vocab.getty.edu/aat/300025087,municipal engineers,2
+http://vocab.getty.edu/aat/300025153,muralists (painters),6
+http://vocab.getty.edu/aat/300386267,museum directors,33
+http://vocab.getty.edu/aat/300312281,museums (institutions),3604
+http://vocab.getty.edu/aat/300386288,music box makers,1
+http://vocab.getty.edu/aat/300386303,musical instrument makers,28
+http://vocab.getty.edu/aat/300025666,musicians,52
+http://vocab.getty.edu/aat/300025563,musicologists,1
+http://vocab.getty.edu/aat/300025781,mystics,2
+http://vocab.getty.edu/aat/300185251,naive artists,42
+http://vocab.getty.edu/aat/300112034,naturalists,8
+http://vocab.getty.edu/aat/300024996,naval architects,6
+http://vocab.getty.edu/aat/300252058,needleworkers,5
+http://vocab.getty.edu/aat/300236022,nobles (aristocrats),330
+http://vocab.getty.edu/aat/300253162,nonprofit organizations,46
+http://vocab.getty.edu/aat/300025454,notaries,2
+http://vocab.getty.edu/aat/300179382,novelists,11
+http://vocab.getty.edu/aat/300025565,numismatists,1
+http://vocab.getty.edu/aat/300025770,nuns,4
+http://vocab.getty.edu/aat/300112039,nurserymen,2
+http://vocab.getty.edu/aat/300156142,nurses,3
+http://vocab.getty.edu/aat/300266051,occupants,1
+http://vocab.getty.edu/aat/300136483,oceanographers,1
+http://vocab.getty.edu/aat/300189710,officers (administrators),18
+http://vocab.getty.edu/aat/300386367,offices (administrative entities),5
+http://vocab.getty.edu/aat/300386641,officials,30
+http://vocab.getty.edu/aat/300025566,orators,9
+http://vocab.getty.edu/aat/300025948,organizations (groups),582
+http://vocab.getty.edu/aat/300195482,ornamentists,1
+http://vocab.getty.edu/aat/300237244,ornithologists,2
+http://vocab.getty.edu/aat/300203630,owners,12
+http://vocab.getty.edu/aat/300025136,painters (artists),1096
+http://vocab.getty.edu/aat/300236851,painters (tradespeople),3
+http://vocab.getty.edu/aat/300312294,painting studios (organizations),1
+http://vocab.getty.edu/aat/300025491,paleographers,3
+http://vocab.getty.edu/aat/300025802,paleontologists,1
+http://vocab.getty.edu/aat/300386298,panel makers,1
+http://vocab.getty.edu/aat/300386184,paper artists,6
+http://vocab.getty.edu/aat/300025344,papermakers,3
+http://vocab.getty.edu/aat/300386332,pargeters,1
+http://vocab.getty.edu/aat/300403977,parks (institutions),1
+http://vocab.getty.edu/aat/300160118,partnerships (companies),18
+http://vocab.getty.edu/aat/300025772,patriarchs,1
+http://vocab.getty.edu/aat/300251975,patricians,15
+http://vocab.getty.edu/aat/300115251,patrons,400
+http://vocab.getty.edu/aat/300024979,people (agents),1
+http://vocab.getty.edu/aat/300025678,performance artists,22
+http://vocab.getty.edu/aat/300068931,performing artists,1
+http://vocab.getty.edu/aat/300025322,pewterers,9
+http://vocab.getty.edu/aat/300188530,pharmacists,1
+http://vocab.getty.edu/aat/300025854,philanthropists,14
+http://vocab.getty.edu/aat/300025568,philologists,7
+http://vocab.getty.edu/aat/300025569,philosophers,103
+http://vocab.getty.edu/aat/300343368,photo archives,1
+http://vocab.getty.edu/aat/300025715,photoengravers,1
+http://vocab.getty.edu/aat/300025687,photographers,1310
+http://vocab.getty.edu/aat/300312296,photography studios (organizations),132
+http://vocab.getty.edu/aat/300025695,photojournalists,4
+http://vocab.getty.edu/aat/300025809,physicians,51
+http://vocab.getty.edu/aat/300025816,physicists,16
+http://vocab.getty.edu/aat/300235018,pianists,2
+http://vocab.getty.edu/aat/300112128,pioneers,3
+http://vocab.getty.edu/aat/300025090,planners,96
+http://vocab.getty.edu/aat/300161847,planning commissions,2
+http://vocab.getty.edu/aat/300386170,plantation owners,1
+http://vocab.getty.edu/aat/300025028,plasterers,10
+http://vocab.getty.edu/aat/300386331,plasterwork artists,3
+http://vocab.getty.edu/aat/300025511,playwrights,14
+http://vocab.getty.edu/aat/300025513,poets,120
+http://vocab.getty.edu/aat/300025474,politicians,166
+http://vocab.getty.edu/aat/300025773,popes,131
+http://vocab.getty.edu/aat/300386311,porcelain makers,7
+http://vocab.getty.edu/aat/300386310,porcelain painters,20
+http://vocab.getty.edu/aat/300025414,potters,69
+http://vocab.getty.edu/aat/300237357,preachers,2
+http://vocab.getty.edu/aat/300025855,preservationists,171
+http://vocab.getty.edu/aat/300025470,presidents,18
+http://vocab.getty.edu/aat/300395662,pretenders,1
+http://vocab.getty.edu/aat/300025774,priests,26
+http://vocab.getty.edu/aat/300379278,prince-bishops,3
+http://vocab.getty.edu/aat/300025482,princes (rulers),39
+http://vocab.getty.edu/aat/300155241,princesses,25
+http://vocab.getty.edu/aat/300025732,printers (people),157
+http://vocab.getty.edu/aat/300386347,printing firms,8
+http://vocab.getty.edu/aat/300025164,printmakers,12
+http://vocab.getty.edu/aat/300312299,printmaking studios (organizations),6
+http://vocab.getty.edu/aat/300197742,producers (managers),9
+http://vocab.getty.edu/aat/300025952,professional associations,14
+http://vocab.getty.edu/aat/300025533,professors (teachers),78
+http://vocab.getty.edu/aat/300386364,programs (organizations),20
+http://vocab.getty.edu/aat/300189023,prostitutes,1
+http://vocab.getty.edu/aat/300025811,psychiatrists,4
+http://vocab.getty.edu/aat/300025597,psychologists,7
+http://vocab.getty.edu/aat/300026007,public institutions,1
+http://vocab.getty.edu/aat/300025457,public officers,31
+http://vocab.getty.edu/aat/300237376,publicists,1
+http://vocab.getty.edu/aat/300025574,publishers,195
+http://vocab.getty.edu/aat/300386627,publishing houses,18
+http://vocab.getty.edu/aat/300386245,pyrotechnicians,3
+http://vocab.getty.edu/aat/300025483,queens (people),57
+http://vocab.getty.edu/aat/300025359,quiltmakers,2
+http://vocab.getty.edu/aat/300025776,rabbis,1
+http://vocab.getty.edu/aat/300386354,railroad builders,1
+http://vocab.getty.edu/aat/300136492,ranchers (people),1
+http://vocab.getty.edu/aat/300025218,real estate agents,2
+http://vocab.getty.edu/aat/300025856,reformers,3
+http://vocab.getty.edu/aat/300386155,relatives (familial),34
+http://vocab.getty.edu/aat/300343472,religious institutions,2
+http://vocab.getty.edu/aat/300386283,religious leaders,13
+http://vocab.getty.edu/aat/300250831,religious orders,1
+http://vocab.getty.edu/aat/300263613,repairers (ceramicists),10
+http://vocab.getty.edu/aat/300264595,repositories (institutions),9245
+http://vocab.getty.edu/aat/300343397,research institutes (institutions),32
+http://vocab.getty.edu/aat/300025576,researchers,6
+http://vocab.getty.edu/aat/300386640,restaurateurs (of restaurants),4
+http://vocab.getty.edu/aat/300025821,restorers,54
+http://vocab.getty.edu/aat/300025246,retailers,5
+http://vocab.getty.edu/aat/300237490,revolutionaries,14
+http://vocab.getty.edu/aat/300025578,rhetoricians,2
+http://vocab.getty.edu/aat/300025475,rulers (people),46
+http://vocab.getty.edu/aat/300025420,saddlers,2
+http://vocab.getty.edu/aat/300386642,sailors (military),2
+http://vocab.getty.edu/aat/300150555,saints,41
+http://vocab.getty.edu/aat/300025681,scenographers,36
+http://vocab.getty.edu/aat/300025579,scholars,54
+http://vocab.getty.edu/aat/300266108,schools (institutions),149
+http://vocab.getty.edu/aat/300025788,scientists,30
+http://vocab.getty.edu/aat/300025580,scribes (people),209
+http://vocab.getty.edu/aat/300025181,sculptors,1172
+http://vocab.getty.edu/aat/300312297,sculpture studios (organizations),2
+http://vocab.getty.edu/aat/300025415,sealmakers,1
+http://vocab.getty.edu/aat/300137147,secretaries (clerical workers),4
+http://vocab.getty.edu/aat/300025874,servants,8
+http://vocab.getty.edu/aat/300025361,sewers (textile workers),1
+http://vocab.getty.edu/aat/300258669,shahs,1
+http://vocab.getty.edu/aat/300025424,shipbuilders,1
+http://vocab.getty.edu/aat/300395652,shoguns,1
+http://vocab.getty.edu/aat/300386330,sign painters,1
+http://vocab.getty.edu/aat/300386190,silhouette artists,1
+http://vocab.getty.edu/aat/300025323,silversmiths,218
+http://vocab.getty.edu/aat/300025684,singers,16
+http://vocab.getty.edu/aat/300189844,sitters,96
+http://vocab.getty.edu/aat/300171580,social scientists,4
+http://vocab.getty.edu/aat/300122943,social workers,3
+http://vocab.getty.edu/aat/300343834,socialites,10
+http://vocab.getty.edu/aat/300026009,societies,178
+http://vocab.getty.edu/aat/300025600,sociologists,22
+http://vocab.getty.edu/aat/300185678,soldiers,18
+http://vocab.getty.edu/aat/300311990,special collections,1
+http://vocab.getty.edu/aat/300188572,sponsors,3
+http://vocab.getty.edu/aat/300237612,sportsmen,1
+http://vocab.getty.edu/aat/300154337,spouses,20
+http://vocab.getty.edu/aat/300395667,stadtholders,2
+http://vocab.getty.edu/aat/300386222,stained glass artists,25
+http://vocab.getty.edu/aat/300386355,stair builders,1
+http://vocab.getty.edu/aat/300025484,statesmen,50
+http://vocab.getty.edu/aat/300236284,stewards,1
+http://vocab.getty.edu/aat/300025216,stockbrokers,2
+http://vocab.getty.edu/aat/300386356,stone carvers,4
+http://vocab.getty.edu/aat/300025039,stonecutters,7
+http://vocab.getty.edu/aat/300025045,stonemasons,22
+http://vocab.getty.edu/aat/300025076,structural engineers,41
+http://vocab.getty.edu/aat/300264531,stuccoists,5
+http://vocab.getty.edu/aat/300025909,students,16
+http://vocab.getty.edu/aat/300157460,studios (organizations),32
+http://vocab.getty.edu/aat/300025364,stylists,1
+http://vocab.getty.edu/aat/300025056,subcontractors,1
+http://vocab.getty.edu/aat/300264266,sultans,5
+http://vocab.getty.edu/aat/300386345,sundial makers,3
+http://vocab.getty.edu/aat/300025810,surgeons,4
+http://vocab.getty.edu/aat/300025100,surveyors,55
+http://vocab.getty.edu/aat/300025342,swordsmiths,1
+http://vocab.getty.edu/aat/300025365,tailors,4
+http://vocab.getty.edu/aat/300265035,tapestry dealers,2
+http://vocab.getty.edu/aat/300386342,tapestry manufactories,6
+http://vocab.getty.edu/aat/300025366,tapestry weavers,4
+http://vocab.getty.edu/aat/300343833,tea masters,3
+http://vocab.getty.edu/aat/300025529,teachers,8
+http://vocab.getty.edu/aat/300025823,technicians,3
+http://vocab.getty.edu/aat/300395657,tetrarchs,1
+http://vocab.getty.edu/aat/300386333,textile artists,9
+http://vocab.getty.edu/aat/300386335,textile designers,56
+http://vocab.getty.edu/aat/300266039,theater companies,4
+http://vocab.getty.edu/aat/300025784,theologians,19
+http://vocab.getty.edu/aat/300154308,theorists,40
+http://vocab.getty.edu/aat/300025841,thieves,1
+http://vocab.getty.edu/aat/300386284,tile makers,20
+http://vocab.getty.edu/aat/300025324,tinsmiths,3
+http://vocab.getty.edu/aat/300236204,topographers,2
+http://vocab.getty.edu/aat/300237761,toymakers,4
+http://vocab.getty.edu/aat/300386656,transit systems (administrative),1
+http://vocab.getty.edu/aat/300025601,translators,5
+http://vocab.getty.edu/aat/300102799,transportation engineers,2
+http://vocab.getty.edu/aat/300025879,travelers,6
+http://vocab.getty.edu/aat/300025745,typographers,9
+http://vocab.getty.edu/aat/300236616,tyrants,2
+http://vocab.getty.edu/aat/300379012,undetermined (information indicator),11
+http://vocab.getty.edu/aat/300386154,unidentified,2217
+http://vocab.getty.edu/aat/300312240,universities (institutions),198
+http://vocab.getty.edu/aat/300025407,upholsterers,14
+http://vocab.getty.edu/aat/300025091,urban planners,531
+http://vocab.getty.edu/aat/300386351,urban planning firms,15
+http://vocab.getty.edu/aat/300263263,vase painters,27
+http://vocab.getty.edu/aat/300253827,video artists,15
+http://vocab.getty.edu/aat/300136471,vintners,1
+http://vocab.getty.edu/aat/300025413,violin makers,3
+http://vocab.getty.edu/aat/300025398,watchmakers,2
+http://vocab.getty.edu/aat/300025157,watercolorists,2
+http://vocab.getty.edu/aat/300386329,weapons makers,3
+http://vocab.getty.edu/aat/300025367,weavers,25
+http://vocab.getty.edu/aat/300025197,window dressers,2
+http://vocab.getty.edu/aat/300025943,women (female humans),20
+http://vocab.getty.edu/aat/300025167,wood engravers,3
+http://vocab.getty.edu/aat/300025382,woodcarvers (woodworkers),10
+http://vocab.getty.edu/aat/300025178,woodcutters (printmakers),1
+http://vocab.getty.edu/aat/300025368,woodworkers,20
+http://vocab.getty.edu/aat/300025886,workers,4
+http://vocab.getty.edu/aat/300026026,workshops (organizations),15
+http://vocab.getty.edu/aat/300386629,writers (clerical workers),3
+http://vocab.getty.edu/aat/300025792,zoologists,4

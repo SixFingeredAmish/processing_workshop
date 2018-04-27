@@ -1,0 +1,194 @@
+country,beer_servings,wine_servings,total_litres_of_pure_alcohol
+Belarus,142,42,14.4
+Lithuania,343,56,12.9
+Andorra,245,312,12.4
+Grenada,199,28,11.9
+France,127,370,11.8
+Czech Republic,361,134,11.8
+Russian Federation,247,73,11.5
+Luxembourg,236,271,11.4
+Ireland,313,165,11.4
+Slovakia,196,116,11.4
+Hungary,234,185,11.3
+Germany,346,175,11.3
+Portugal,194,339,11
+Poland,343,56,10.9
+Slovenia,270,276,10.6
+Belgium,295,212,10.5
+Latvia,281,62,10.5
+Denmark,224,278,10.4
+Australia,261,212,10.4
+United Kingdom,219,195,10.4
+Romania,297,167,10.4
+Bulgaria,231,94,10.3
+Switzerland,185,280,10.2
+Croatia,230,254,10.2
+St. Lucia,171,71,10.1
+Spain,284,112,10
+Finland,263,97,10
+South Korea,140,9,9.8
+Austria,279,191,9.7
+Serbia,283,127,9.6
+Estonia,224,59,9.5
+Netherlands,251,190,9.4
+New Zealand,203,175,9.3
+Nigeria,42,2,9.1
+Gabon,347,59,8.9
+Ukraine,206,45,8.9
+USA,249,84,8.7
+Argentina,193,221,8.3
+Greece,133,218,8.3
+Uganda,45,0,8.3
+Cyprus,192,113,8.2
+Canada,240,100,8.2
+South Africa,225,81,8.2
+St. Kitts & Nevis,194,32,7.7
+Venezuela,333,3,7.7
+Chile,130,172,7.6
+Paraguay,213,74,7.3
+Sweden,152,186,7.2
+Panama,285,18,7.2
+Brazil,245,16,7.2
+Guyana,93,1,7.1
+Japan,77,16,7
+Niue,188,7,7
+Palau,306,23,6.9
+Kazakhstan,124,12,6.8
+Belize,263,8,6.8
+Namibia,376,1,6.8
+Rwanda,43,0,6.8
+Norway,169,129,6.7
+Sierra Leone,25,2,6.7
+Uruguay,115,220,6.6
+Malta,149,120,6.6
+Iceland,233,78,6.6
+Dominica,52,26,6.6
+Italy,85,237,6.5
+Trinidad & Tobago,197,7,6.4
+Thailand,99,1,6.4
+Bahamas,122,51,6.3
+Barbados,143,36,6.3
+Moldova,109,18,6.3
+St. Vincent & the Grenadines,120,11,6.3
+Burundi,88,0,6.3
+Laos,62,123,6.2
+Dominican Republic,193,9,6.2
+Peru,163,21,6.1
+Cook Islands,0,74,5.9
+Angola,217,45,5.9
+Haiti,1,1,5.9
+Equatorial Guinea,92,233,5.8
+Cameroon,147,4,5.8
+Tanzania,36,1,5.7
+Suriname,128,7,5.6
+Mexico,238,5,5.5
+Georgia,52,149,5.4
+Botswana,173,35,5.4
+China,79,8,5
+Montenegro,31,128,4.9
+Albania,89,54,4.9
+Antigua & Barbuda,102,45,4.9
+Mongolia,77,8,4.9
+Zimbabwe,64,4,4.7
+Swaziland,90,2,4.7
+Bosnia-Herzegovina,76,8,4.6
+Philippines,71,1,4.6
+Costa Rica,149,11,4.4
+Burkina Faso,25,7,4.3
+Sao Tome & Principe,56,140,4.2
+Cuba,93,5,4.2
+Ecuador,162,3,4.2
+Colombia,159,3,4.2
+Seychelles,157,51,4.1
+Cabo Verde,144,16,4
+Cote d'Ivoire,37,7,4
+Macedonia,106,86,3.9
+Armenia,21,11,3.8
+Bolivia,167,8,3.8
+Nicaragua,78,1,3.5
+Jamaica,82,9,3.4
+Liberia,19,2,3.1
+Honduras,69,2,3
+United Arab Emirates,16,5,2.8
+Lesotho,82,0,2.8
+Samoa,105,24,2.6
+Mauritius,98,18,2.6
+Guinea-Bissau,28,21,2.5
+Israel,63,9,2.5
+Zambia,32,4,2.5
+Uzbekistan,25,8,2.4
+Kyrgyzstan,31,6,2.4
+Gambia,8,1,2.4
+Micronesia,62,18,2.3
+DR Congo,32,1,2.3
+Turkmenistan,19,32,2.2
+Guatemala,53,2,2.2
+El Salvador,52,2,2.2
+Cambodia,57,1,2.2
+Sri Lanka,16,0,2.2
+India,9,0,2.2
+Bahrain,42,7,2
+Vietnam,111,1,2
+Fiji,77,1,2
+Lebanon,20,31,1.9
+Ghana,31,10,1.8
+Kenya,58,2,1.8
+Central African Republic,17,1,1.8
+Congo,76,9,1.7
+Sudan,8,0,1.7
+Singapore,60,11,1.5
+Papua New Guinea,44,1,1.5
+Malawi,8,1,1.5
+Turkey,51,7,1.4
+Tunisia,51,20,1.3
+Togo,36,19,1.3
+Mozambique,47,5,1.3
+Azerbaijan,21,5,1.3
+Solomon Islands,56,1,1.2
+Benin,34,13,1.1
+Tonga,36,5,1.1
+Djibouti,15,3,1.1
+Syria,5,16,1
+Tuvalu,6,9,1
+Nauru,49,8,1
+Kiribati,21,1,1
+Vanuatu,21,11,0.9
+Qatar,1,7,0.9
+Madagascar,26,4,0.8
+Algeria,25,14,0.7
+Oman,22,1,0.7
+Ethiopia,20,0,0.7
+Brunei,31,1,0.6
+Mali,5,1,0.6
+Morocco,12,10,0.5
+Jordan,6,1,0.5
+Eritrea,18,0,0.5
+Chad,15,1,0.4
+Bhutan,23,0,0.4
+Senegal,9,7,0.3
+Malaysia,13,0,0.3
+Tajikistan,2,0,0.3
+Guinea,9,2,0.2
+Egypt,6,1,0.2
+Iraq,9,0,0.2
+Nepal,5,0,0.2
+Timor-Leste,1,4,0.1
+Niger,3,1,0.1
+Comoros,1,1,0.1
+Yemen,6,0,0.1
+Indonesia,5,0,0.1
+Myanmar,5,0,0.1
+Saudi Arabia,0,0,0.1
+Afghanistan,0,0,0
+Bangladesh,0,0,0
+North Korea,0,0,0
+Iran,0,0,0
+Kuwait,0,0,0
+Libya,0,0,0
+Maldives,0,0,0
+Marshall Islands,0,0,0
+Mauritania,0,0,0
+Monaco,0,0,0
+Pakistan,0,0,0
+San Marino,0,0,0
+Somalia,0,0,0
